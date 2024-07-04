@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Anjorin Love</h1>
-<h3 align="center">Experienced Flutter developer. I am proficient in building cross-platform applications and delivering user-centric solutions. Passionate about learning new things.</h3>
+<h3 align="center"> I am proficient in building cross-platform applications and delivering user-centric solutions. Passionate about learning new things. I have experience with Flutter, Laravel, JavaScript, HTML, CSS, and Firebase.</h3>
         <img alt="coding" width="400" align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=everlastingbigflo&label=Profile%20views&color=0e75b6&style=flat" alt="everlastingbigflo" /> </p>
