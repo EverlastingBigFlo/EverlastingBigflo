@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **anjorin199@gmail.com**
+- 📫 How to reach me **loveanjorin.dev@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
