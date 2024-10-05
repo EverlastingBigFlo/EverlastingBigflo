@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Flutter Based Applications!**
 
-- 🌱 I’m currently learning **Flutter, Laravel**
+- 🌱 As learning never ends, I’m currently learning **Flutter, Laravel**
 
 - 👯 I’m looking to collaborate **with Other Flutter Developers and Flutter Projects, also any open source that can shape me to a better version of what I do and myself.**
 
