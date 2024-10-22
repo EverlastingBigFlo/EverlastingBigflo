@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/e_bigflo" target="blank"><img src="https://img.shields.io/twitter/follow/e_bigflo?logo=twitter&style=for-the-badge" alt="e_bigflo" /></a> </p>
 
-- 🌱 As learning never ends, I’m currently learning **Flutter, Laravel**
+- 🌱 As learning never ends, I’m currently learning
 
 - 👯 I’m looking to collaborate **with Other Flutter Developers and Flutter Projects, also any open source that can shape me to a better version of what I do and myself.**
 
