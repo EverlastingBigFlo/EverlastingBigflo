@@ -11,11 +11,7 @@
 
 - 🌱 As learning never ends, I’m currently learning
 
-- 👯 I’m looking to collaborate **with Other Flutter Developers and Flutter Projects, also any open source that can shape me to a better version of what I do and myself.**
-
-- 💬 Ask me about **Flutter**
-  
-- 💬 Ask me about **Laravel**
+- 👯 I’m looking to collaborate **with Other Developers and Projects, also any open source that can shape me to a better version of what I do and myself.**
 
 - 📫 How to reach me **Loveanjorin.dev@gmail.com**
 
