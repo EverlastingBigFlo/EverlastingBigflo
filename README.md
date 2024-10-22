@@ -1,14 +1,15 @@
 
 
 
-<h1 align="center">Hi there 👋, I'm Anjorin Love</h1>
-<h3 align="center"> I am proficient in building cross-platform applications and delivering user-centric solutions. Passionate about learning new things. I have experience with Flutter, Laravel, JavaScript, HTML, CSS, and Firebase.</h3>
+<h1 align="center">Hi there 👋, I'm Love Anjorin</h1>
+<h3 align="center"> I'm a passionate full stack developer who loves turning ideas into incredible apps. Whether it's Flutter for cross-platform magic, or Laravel and JavaScript for full stack web development and building powerful backends, I'm always learning and leveling up. Let's create something amazing together! </h3>
         <img alt="coding" width="400" align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=everlastingbigflo&label=Profile%20views&color=0e75b6&style=flat" alt="everlastingbigflo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/e_bigflo" target="blank"><img src="https://img.shields.io/twitter/follow/e_bigflo?logo=twitter&style=for-the-badge" alt="e_bigflo" /></a> </p>
-- 🌱 Learning never ends
+
+- 🌱 As learning never ends, I’m currently learning **Flutter, Laravel**
 
 - 👯 I’m looking to collaborate **with Other Flutter Developers and Flutter Projects, also any open source that can shape me to a better version of what I do and myself.**
 
